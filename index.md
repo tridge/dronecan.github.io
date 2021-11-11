@@ -40,11 +40,16 @@ The DroneCAN project has an active development community.
  - discussions on discord at [https://dronecan.org/discord](https://dronecan.org/discord)
  - development on github at [https://github.com/DroneCAN](https://github.com/DroneCAN)
 
+## Joining DroneCAN
+
+If you would like to publicly support the DroneCAN project then please
+fill in the [application form](https://dronecan.org/apply)
+
 ## Supporters
 
 <table style="padding:10px">
   <tr>
-    <td><img src="image/ArduPilot.png" alt="ArduPilot" width="256px"></td>
+    <td><img src="image/ArduPilot2.png" alt="ArduPilot" width="256px"></td>
     <td><img src="image/px4.png" alt="PX4" width="256px"></td>
     <td><img src="image/Currawong.png" alt="Currawong" width="256px"></td>
    </tr>
@@ -60,10 +65,12 @@ The DroneCAN project has an active development community.
    </tr>
   <tr>
     <td><img src="image/SpektreWorks.png" alt="SpektreWorks" width="256px"></td>
+    <td><img src="image/mateksys.png" alt="Matek" width="256px"></td>
+    <td><img src="image/cuav.png" alt="CUAV" width="256px"></td>
+   </tr>
+  <tr>
+    <td><img src="image/qiotek.png" alt="Qiotek" width="256px"></td>
+    <td><img src="image/Sierra.png" alt="Sierra" width="256px"></td>
    </tr>
 </table>
 
-## Joining DroneCAN
-
-If you would like to publicly support the DroneCAN project then please
-fill in the [application form](https://dronecan.org/apply)
