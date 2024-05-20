@@ -83,6 +83,11 @@ fill in the [application form](https://dronecan.org/apply)
     <td><a href="https://vectortechnics.com/" target="_blank"><img src="image/vectortechnics.jpg" alt="VectorTechnics" width="256px"></a></td>
     <td><a href="https://www.vimdrones.com/" target="_blank"><img src="image/vimdrones.png" alt="VimDrones" width="256px"></a></td>
    </tr>
+  <tr>
+    <td><a href="https://www.volz-servos.com/" target="_blank"><img src="image/volz.jpg" alt="VolzServos" width="256px"></a></td>
+    <td><a href="https://hargravetechnologies.com/" target="_blank"><img src="image/hargrave.png" alt="Hargrave" width="256px"></a></td>
+    <td><a href="https://KDEDirect.com/" target="_blank"><img src="image/KDE.png" alt="KDE" width="256px"></a></td>
+   </tr>
 </table>
 
 ## History
