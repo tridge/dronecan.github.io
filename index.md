@@ -88,6 +88,9 @@ fill in the [application form](https://dronecan.org/apply)
     <td><a href="https://hargravetechnologies.com/" target="_blank"><img src="image/hargrave.jpg" alt="Hargrave" width="256px"></a></td>
     <td><a href="https://KDEDirect.com/" target="_blank"><img src="image/KDE.png" alt="KDE" width="256px"></a></td>
    </tr>
+  <tr>
+    <td><a href="https://www.vertiq.co/" target="_blank"><img src="image/vertiq.png" alt="Vertiq" width="256px"></a></td>
+  </tr>
 </table>
 
 ## History
